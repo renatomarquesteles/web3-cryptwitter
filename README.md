@@ -1,16 +1,16 @@
-# CrypTwitter
+# :zap: CrypTwitter
 
 Decentralized App developed to simulate the Web3 version of the Twitter timeline.
 
-Contract deployed and published on the Binance Smart Chain testnet.
+Smart Contract deployed and published on the Binance Smart Chain testnet.<br/>
 (Address: 0x5f8AD5A0AdA161994d7efee13E29b9f960C2B856)
 
 Project developed during the Web3 Week: https://www.luiztools.com.br/w3w
 
-## Preview
+## 🌟 Preview
 
-<img src=".github/home.png" />
-<img src=".github/tweets.png" />
+<img src=".github/home.png" width="900" />
+<img src=".github/tweets.png" width="900" />
 
 ## 🚀 Technologies
 -  React
